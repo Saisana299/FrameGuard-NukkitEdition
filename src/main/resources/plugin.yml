@@ -1,0 +1,12 @@
+name: FrameGuard
+main: com.saisana299.nukkit.FrameGuard
+version: "1.0.0"
+api: ["1.0.9"]
+load: POSTWORLD
+author: Saisana299
+description: 額縁保護プラグインです
+commands:
+  fg:
+    description: 額縁を保護します
+  unfg:
+    description: 額縁の保護を解除します
