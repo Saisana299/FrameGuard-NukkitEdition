@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5ae49b36-8831-494e-9a34-1413c8a4f33c" name="Default Changelist" comment="" />
+    <list default="true" id="5ae49b36-8831-494e-9a34-1413c8a4f33c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/saisana299/nukkit/FrameGuard.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/saisana299/frameguard/FrameGuard.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/plugin.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +26,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1XgmJMmr94xIfYmCqm3UkRVxWO6" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -27,6 +37,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="external.system.task.project.file.to.start" value="$PROJECT_DIR$" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -82,22 +93,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="566" y="290" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1581484709264" />
-    <state width="1877" height="198" key="GridCell.Tab.0.bottom" timestamp="1581508334388">
+    <state width="1250" height="138" key="GridCell.Tab.0.bottom" timestamp="1584412003807">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="198" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581508334388" />
-    <state width="1877" height="198" key="GridCell.Tab.0.center" timestamp="1581508334388">
+    <state width="1250" height="138" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584412003807" />
+    <state width="1250" height="138" key="GridCell.Tab.0.center" timestamp="1584412003807">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="198" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581508334388" />
-    <state width="1877" height="198" key="GridCell.Tab.0.left" timestamp="1581508334388">
+    <state width="1250" height="138" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584412003807" />
+    <state width="1250" height="138" key="GridCell.Tab.0.left" timestamp="1584412003807">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="198" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581508334388" />
-    <state width="1877" height="198" key="GridCell.Tab.0.right" timestamp="1581508334388">
+    <state width="1250" height="138" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584412003807" />
+    <state width="1250" height="138" key="GridCell.Tab.0.right" timestamp="1584412003807">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="198" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581508334388" />
+    <state width="1250" height="138" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584412003807" />
     <state x="251" y="227" key="org.jetbrains.kotlin.idea.testIntegration.KotlinCreateTestDialog" timestamp="1581501151676">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

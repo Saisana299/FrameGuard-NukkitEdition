@@ -1,4 +1,4 @@
-package com.saisana299.nukkit
+package saisana299.frameguard
 
 import cn.nukkit.plugin.PluginBase
 import cn.nukkit.Player

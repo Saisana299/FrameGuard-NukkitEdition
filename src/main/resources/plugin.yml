@@ -1,6 +1,6 @@
 name: FrameGuard
-main: com.saisana299.nukkit.FrameGuard
-version: "1.0.0"
+main: saisana299.frameguard.FrameGuard
+version: "1.0.1"
 api: ["1.0.9"]
 load: POSTWORLD
 author: Saisana299
